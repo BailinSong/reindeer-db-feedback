@@ -74,8 +74,8 @@ Reindeer DB 是一个 VS Code / Cursor 扩展，提供：
 
 ## 📊 统计
 
-[![GitHub issues](https://img.shields.io/github/issues/songbailin/reindeer-db-feedback)](../../issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/songbailin/reindeer-db-feedback)](../../issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/BailinSong/reindeer-db-feedback)](../../issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/BailinSong/reindeer-db-feedback)](../../issues?q=is%3Aissue+is%3Aclosed)
 
 ## 📜 许可证
 
