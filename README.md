@@ -2,7 +2,7 @@
 
 欢迎来到 Reindeer DB 的问题反馈和建议仓库！
 
-这是一个专门用于收集 [Reindeer DB](https://github.com/songbailin/Reindeer-DB) 用户反馈的仓库。
+这是一个专门用于收集 Reindeer DB 用户反馈的仓库。
 
 ## 📋 如何反馈
 
@@ -48,9 +48,8 @@ Reindeer DB 是一个 VS Code / Cursor 扩展，提供：
 
 ## 🔗 相关链接
 
-- [主仓库](https://github.com/songbailin/Reindeer-DB)
-- [文档](https://github.com/songbailin/Reindeer-DB/tree/main/docs)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=YourPublisher.reindeer-db)
+- [反馈仓库](https://github.com/BailinSong/reindeer-db-feedback)
 
 ## 🤝 贡献指南
 
