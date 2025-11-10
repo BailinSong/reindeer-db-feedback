@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 查看文档
+    url: https://github.com/songbailin/Reindeer-DB/tree/main/docs
+    about: 查看完整的使用文档和配置指南
+  - name: 💬 讨论区
+    url: https://github.com/songbailin/Reindeer-DB/discussions
+    about: 参与社区讨论，分享使用经验
