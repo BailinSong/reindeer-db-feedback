@@ -48,8 +48,8 @@ Reindeer DB 是一个 VS Code / Cursor 扩展，提供：
 
 ## 🔗 相关链接
 
-- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=YourPublisher.reindeer-db)
-- [反馈仓库](https://github.com/BailinSong/reindeer-db-feedback)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=reindeer.reindeer-db) - 安装扩展
+- [反馈仓库](https://github.com/BailinSong/reindeer-db-feedback) - 本仓库
 
 ## 🤝 贡献指南
 
